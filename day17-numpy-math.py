@@ -33,4 +33,4 @@ x = np.array([[2,3,4], [5,6,7]])
 # print(np.cumsum(x)) # [ 2  5  9 14 20 27]
 
 x = np.array([[1, 2], [3, 4]])
-print(np.std(x)) # 標準差
+# print(np.std(x)) # 標準差
